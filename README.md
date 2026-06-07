@@ -47,8 +47,8 @@ Výstřižek kódu:
 6. Instalace a spuštění:
     Stáhněte si celou složku Burger, která obsahuje soubor cheseburger.html a podsložku Images. Otevřete složku Burger ve Visual Studio Code, musite m9t nainstalované rozšíření Live Server, klikněte pravým tlačítkem myši na soubor cheseburger.html a zvolte "Open with Live Server" (Alternativní spuštění: Projekt lze spustit i obyčejným dvojitým kliknutím na soubor cheseburger.html přímo ve správci souborů)
 
-7. ![screebshot](Images/ss1а.png)
-![screenshot](Images/ss2.png)
+7. ![screebshot](Burger/images/ss1а.png)
+![screenshot](Burger/images/ss2.png)
 
 
 
